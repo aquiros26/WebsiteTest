@@ -2,7 +2,6 @@ name: "protectionmonitoringCR"
 title: "Protection Monitoring | Costa Rica"
 description: "Call to action"
 output_dir: "docs"
-google_analytics: "GTM-W55KLNP"
 navbar:
   logo:
     image: images/unhcr-logo.png
