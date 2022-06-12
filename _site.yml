@@ -1,0 +1,33 @@
+name: "protectionmonitoringCR"
+title: "Protection Monitoring | Costa Rica"
+description: "Call to action"
+output_dir: "docs"
+google_analytics: "GTM-W55KLNP"
+navbar:
+  logo:
+    image: images/unhcr-logo.png
+    href: https://www.unhcr.org
+  right:
+    - text: "Content"  
+      menu:
+      - text: "Call to action"
+        href: "index.html#call-to-action"
+      - text: "How difficult is the RSD process"
+        href: "index.html#how-difficult-is-the-rsd-process"
+      - text: "Can POCs cover their basic needs?"
+        href: "index.html#can-pocs-cover-their-basic-needs"
+      - text: "Conclusions"
+        href: "index.html#conclusions"
+    - text: "Download"  
+      menu:
+      - text: "Report"
+        href: "https://www.acnur.org/op/op_fs/61eecafc4/reporte-encuesta-de-alta-frecuencia-costa-rica-iii-trimestre-2021-2021.html"
+      - text: "Infographics"
+        href: "https://www.acnur.org/op/op_fs/6131903a4/evaluacion-de-necesidades-impacto-de-la-covid-19-en-la-poblacion-de-otras.html"
+    - href: https://www.facebook.com/ACNUR
+      icon: fa-facebook
+    - href: https://twitter.com/acnur_costarica
+      icon: fa-twitter    
+output: distill::distill_article
+
+
