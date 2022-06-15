@@ -71,7 +71,7 @@ Nullam eget metus volutpat enim tincidunt euismod. Maecenas cursus libero volutp
 
 
 <div class="parallax parallax3"><div class="parallax-content">
-# ¿Las PdI pueden satisfacer sus necesidades básicas?
+# ¿Las PdI pueden cubrir sus necesidades básicas?
 </div></div>
 <aside>© UNHCR/Credit</aside>
 <br>
