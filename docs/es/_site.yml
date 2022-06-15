@@ -1,0 +1,34 @@
+name: "protectionmonitoringCR"
+title: "Monitoreo de Protección | Costa Rica"
+description: "Llamado a la acción"
+output_dir: "docs"
+navbar:
+  logo:
+    image: images/unhcr-logo.png
+    href: https://www.unhcr.org
+  right:
+    - text: "Contenido"  
+      menu:
+      - text: "Llamado a la acción"
+        href: "index.html#llamado-a-la-accion"
+      - text: "¿QUé tan difícil es el proceso de solicitud de refugio?"
+        href: "index.html#que-tan-dificil-es-el-proceso-de-solicitud-de-refugio"
+      - text: "¿Las PdI pueden cubrir sus necesidades básicas?"
+        href: "index.html#las-pdi-pueden-cubrir-sus-necesidades-basicas"
+      - text: "Conclusiones"
+        href: "index.html#conclusiones"
+    - text: "Descargar"  
+      menu:
+      - text: "Reporte"
+        href: "https://www.acnur.org/op/op_fs/61eecafc4/reporte-encuesta-de-alta-frecuencia-costa-rica-iii-trimestre-2021-2021.html"
+      - text: "Infografía"
+        href: "https://www.acnur.org/op/op_fs/6131903a4/evaluacion-de-necesidades-impacto-de-la-covid-19-en-la-poblacion-de-otras.html"
+    - text: "English"
+      href: "../index.html"    
+    - href: https://www.facebook.com/ACNUR
+      icon: fa-facebook
+    - href: https://twitter.com/acnur_costarica
+      icon: fa-twitter    
+output: distill::distill_article
+
+
