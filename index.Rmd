@@ -10,7 +10,7 @@ output:
     toc: false
     toc_float: false
 ---
-<aside>© UNHCR/Credit</aside>
+<aside>© UNHCR/Roberto Carlos Sanchez</aside>
 <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet vestibulum lectus, eu auctor turpis. Maecenas auctor accumsan velit sit amet egestas. Etiam convallis gravida neque, nec imperdiet nisl imperdiet sed. Nulla id lacus et purus consequat tristique. Ut non ullamcorper metus, et pretium arcu. Sed malesuada justo magna, eget fermentum enim semper sit amet. Integer ornare vestibulum feugiat.
 
@@ -20,7 +20,7 @@ Donec aliquet enim quis tempor accumsan. Duis tellus justo, lacinia dapibus dolo
 <div class="parallax parallax1"><div class="parallax-content">
 # Call to action
 </div></div>
-<aside>© UNHCR/Credit</aside>
+<aside>© UNHCR/Kai Odio</aside>
 <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur accumsan ex in tincidunt. Nam sed metus non mauris volutpat porta. Nam auctor nec tortor a sagittis. Cras porttitor, felis at faucibus gravida, dui mauris tincidunt ex, sed vulputate risus nisl at justo. Aliquam commodo mi eget dui tempor pulvinar. Ut placerat ut ipsum eget pharetra. Donec imperdiet purus rhoncus enim feugiat, non lacinia erat varius. Duis quis tempor massa.
 
@@ -32,7 +32,7 @@ Aliquam justo justo, pretium in erat non, dapibus ornare leo. Aenean ut enim ips
 <div class="parallax parallax2"><div class="parallax-content">
 # How difficult is the RSD process?
 </div></div>
-<aside>© UNHCR/Credit</aside>
+<aside>© UNHCR/Nicolo Filippo Rosso</aside>
 <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur accumsan ex in tincidunt. Nam sed metus non mauris volutpat porta. Nam auctor nec tortor a sagittis. Cras porttitor, felis at faucibus gravida, dui mauris tincidunt ex, sed vulputate risus nisl at justo. Aliquam commodo mi eget dui tempor pulvinar. Ut placerat ut ipsum eget pharetra. Donec imperdiet purus rhoncus enim feugiat, non lacinia erat varius. Duis quis tempor massa.
 
@@ -73,7 +73,7 @@ Nullam eget metus volutpat enim tincidunt euismod. Maecenas cursus libero volutp
 <div class="parallax parallax3"><div class="parallax-content">
 # Can POCs cover their basic needs?
 </div></div>
-<aside>© UNHCR/Credit</aside>
+<aside>© UNHCR/Flavia Sanchez</aside>
 <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur accumsan ex in tincidunt. Nam sed metus non mauris volutpat porta. Nam auctor nec tortor a sagittis. Cras porttitor, felis at faucibus gravida, dui mauris tincidunt ex, sed vulputate risus nisl at justo. Aliquam commodo mi eget dui tempor pulvinar. Ut placerat ut ipsum eget pharetra. Donec imperdiet purus rhoncus enim feugiat, non lacinia erat varius. Duis quis tempor massa.
 
@@ -101,7 +101,7 @@ Nullam eget metus volutpat enim tincidunt euismod. Maecenas cursus libero volutp
 <div class="parallax parallax4"><div class="parallax-content">
 # Conclusions
 </div></div>
-<aside>© UNHCR/Credit</aside>
+<aside>© UNHCR/Flavia Sanchez</aside>
 <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur accumsan ex in tincidunt. Nam sed metus non mauris volutpat porta. Nam auctor nec tortor a sagittis. Cras porttitor, felis at faucibus gravida, dui mauris tincidunt ex, sed vulputate risus nisl at justo. Aliquam commodo mi eget dui tempor pulvinar. Ut placerat ut ipsum eget pharetra. Donec imperdiet purus rhoncus enim feugiat, non lacinia erat varius. Duis quis tempor massa.
 
